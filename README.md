@@ -1,11 +1,11 @@
 ## Hello There, I'm Beren Arda 👋
 
-🎯 Aspiring Data Analyst | AI Enthusiast | Lifelong Learner | MIS Student
+## Aspiring Data Analyst | AI Enthusiast | Lifelong Learner | MIS Student
 
 I’m currently transitioning into the world of Data Analytics and Business Intelligence.
 I enjoy learning by building projects and documenting my journey here on GitHub.
 
-🚀 What I'm Currently Learning
+## What I'm Currently Learning
 
 SQL for data analysis
 
@@ -23,7 +23,7 @@ English language improvement
 
 I believe in learning in public and sharing the projects I build along the way.
 
-🧠 Interests
+## Interests 
 
 Data analysis & storytelling with data
 
@@ -33,7 +33,7 @@ Building useful tools with Python
 
 Technology & continuous self-improvement
 
-🛠 Tools & Technologies
+## Tools & Technologies
 
 SQL
 
@@ -49,13 +49,13 @@ Power BI (beginner)
 
 AI tools & prompt engineering
 
-💻 Projects
-🤖 Python + Raspberry Pi Project
+## Projects
+# Python + Raspberry Pi Project
 
 A personal project where I used Python with Raspberry Pi to build and experiment with automation and programming in a real-world environment.
 (Project details will be documented and uploaded soon.)
 
-📊 Upcoming Data Projects
+## Upcoming Data Projects
 
 I’m actively building my data portfolio. Upcoming projects include:
 
@@ -67,9 +67,9 @@ Python Data Analysis Project
 
 Interactive Dashboard Project
 
-📌 I will regularly upload and document my projects here.
+# I will regularly upload and document my projects here.
 
-🎯 Goal
+## Goal
 
 To become a Junior Data Analyst and gain real-world experience through projects, freelancing, and continuous learning.
 
